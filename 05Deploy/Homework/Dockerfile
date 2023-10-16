@@ -13,15 +13,16 @@ WORKDIR /app
 # Copy Pipenv files into the container
 COPY ["Pipfile", "Pipfile.lock", "./"]
 
-# Install Python dependencies
-RUN pipenv install --deploy --system
+# Install Python dependencies and clean cache
+RUN pipenv install --deploy --system && \
+rm -rf /root/.cache
 
-# Copy the Flask script into the container
-COPY ["your_flask_script.py", "./"]
+# Copy the Flask script and the .bin files into the container
+COPY ["question4.py", "model1.bin", "dv.bin", "./"]
 
-# Expose the port the app runs on
+
+# Port the app runs on
 EXPOSE 9696
 
 # Run Gunicorn
-ENTRYPOINT ["gunicorn", "--bind", "0.0.0.0:9696", "your_flask_script:app"]
-
+ENTRYPOINT ["gunicorn", "--bind", "0.0.0.0:9696", "question4:app"]
