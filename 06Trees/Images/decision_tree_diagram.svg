@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
-   sodipodi:docname="bnn_ff.svg"
-   inkscape:export-filename="bnn_ff.png"
+   sodipodi:docname="decision_tree_diagram.svg"
+   inkscape:export-filename="decision_tree_diagram.png"
    inkscape:export-xdpi="96.012001"
    inkscape:export-ydpi="96.012001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,12 +29,12 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.52724989"
-     inkscape:cx="966.33495"
-     inkscape:cy="204.83646"
-     inkscape:window-width="1850"
-     inkscape:window-height="1016"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:cx="636.32066"
+     inkscape:cy="475.10678"
+     inkscape:window-width="1366"
+     inkscape:window-height="731"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
@@ -914,8 +914,8 @@
     <ellipse
        style="fill:#0000c1;fill-opacity:0.421277;stroke:#000000;stroke-width:0.85;stroke-dasharray:none;stroke-opacity:1"
        id="path170-3"
-       cx="98.665604"
-       cy="92.427238"
+       cx="299.68158"
+       cy="93.778801"
        rx="41.945999"
        ry="15.737164" />
     <ellipse
@@ -956,7 +956,7 @@
     <g
        id="g1"
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(1.6967334,0,0,1.4029811,86.393824,98.669926)">
+       transform="matrix(1.6967334,0,0,1.4029811,287.40981,100.02149)">
       <g
          style="fill:#000000;fill-opacity:1"
          id="id-94026e46-8b51-485b-a992-171127c95670"
@@ -1237,11 +1237,11 @@
        id="path9" />
     <path
        style="fill:none;fill-opacity:0.421277;stroke:#000000;stroke-width:1.21273;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 86.492614,107.81034 C 41.477012,144.49 41.326022,144.52706 41.326022,144.52706"
+       d="m 287.5086,109.1619 c -45.0156,36.67966 -45.16659,36.71672 -45.16659,36.71672"
        id="path9-3" />
     <path
        style="fill:none;fill-opacity:0.421277;stroke:#000000;stroke-width:1.21418;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 161.8774,144.52113 c -49.95909,-36.58197 -50.03498,-36.7203 -50.03498,-36.7203"
+       d="m 362.89339,145.87269 c -49.95909,-36.58197 -50.03498,-36.7203 -50.03498,-36.7203"
        id="path9-3-1" />
     <path
        style="fill:none;fill-opacity:0.421277;stroke:#000000;stroke-width:1.2;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -1250,14 +1250,14 @@
     <ellipse
        style="fill:#0000c1;fill-opacity:0.421277;stroke:#000000;stroke-width:0.85;stroke-dasharray:none;stroke-opacity:1"
        id="path170-3-6"
-       cx="299.83676"
-       cy="93.656105"
+       cx="95.319366"
+       cy="93.105125"
        rx="41.945999"
        ry="15.737164" />
     <g
        id="g2-3"
        style="fill:#000000;fill-opacity:1"
-       transform="matrix(1.6967334,0,0,1.4029811,287.56498,99.898802)">
+       transform="matrix(1.6967334,0,0,1.4029811,83.047585,99.347826)">
       <g
          style="fill:#000000;fill-opacity:1"
          id="id-94026e46-8b51-485b-a992-171127c95670-2"
@@ -1406,27 +1406,27 @@
     </g>
     <path
        style="fill:none;fill-opacity:0.421277;stroke:#000000;stroke-width:1.2;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 287.66797,109.03417 c -44.69041,36.17498 -44.84031,36.21153 -44.84031,36.21153"
+       d="m 83.150575,108.48319 c -44.69041,36.17498 -44.84031,36.21153 -44.84031,36.21153"
        id="path9-3-2" />
     <path
        style="fill:none;fill-opacity:0.421277;stroke:#000000;stroke-width:1.2;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 362.55426,145.24533 C 313.08265,109.16063 313.0075,109.02418 313.0075,109.02418"
+       d="M 158.03687,144.69435 C 108.56526,108.60965 108.49011,108.4732 108.49011,108.4732"
        id="path9-3-1-0" />
     <path
        style="fill:#02c100;fill-opacity:0.419608;stroke:#000000;stroke-width:0.85;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 26.972425,154.91828 v -10.41272 h 16.058168 16.058161 v 10.41272 10.41271 H 43.030593 26.972425 Z"
+       d="M 348.0962,156.15522 V 145.7425 h 16.05817 16.05816 v 10.41272 10.41271 H 364.15437 348.0962 Z"
        id="path17" />
     <path
        style="fill:#02c100;fill-opacity:0.419608;stroke:#000000;stroke-width:0.85;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 145.8361,154.94614 v -10.41272 h 16.05817 16.05816 v 10.41272 10.41271 H 161.89427 145.8361 Z"
+       d="m 226.99451,156.1933 v -10.41272 h 16.05817 16.05816 v 10.41272 10.41271 h -16.05816 -16.05817 z"
        id="path17-8" />
     <path
        style="fill:#02c100;fill-opacity:0.419608;stroke:#000000;stroke-width:0.85;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 226.71661,155.50795 v -10.41272 h 16.05817 16.05816 v 10.41272 10.41271 h -16.05816 -16.05817 z"
+       d="m 143.9261,155.16275 v -10.41272 h 16.05817 16.05816 v 10.41272 10.41271 H 159.98427 143.9261 Z"
        id="path17-2" />
     <path
        style="fill:#02c100;fill-opacity:0.419608;stroke:#000000;stroke-width:0.85;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="m 347.67994,155.59661 v -10.41272 h 16.05817 16.05816 v 10.41272 10.41271 h -16.05816 -16.05817 z"
+       d="M 21.489858,155.62472 V 145.212 h 16.05817 16.05816 v 10.41272 10.41271 h -16.05816 -16.05817 z"
        id="path17-6" />
     <text
        xml:space="preserve"
@@ -1442,86 +1442,86 @@
     <text
        xml:space="preserve"
        style="font-size:11.2889px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="117.5921"
-       y="56.417027"
+       x="261.11545"
+       y="54.794956"
        id="text18"><tspan
          sodipodi:role="line"
          id="tspan18"
          style="stroke-width:1.8"
-         x="117.5921"
-         y="56.417027">No</tspan></text>
+         x="261.11545"
+         y="54.794956">No</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="45.783115"
-       y="123.5409"
+       x="339.29254"
+       y="125.23465"
        id="text18-9"><tspan
          sodipodi:role="line"
          id="tspan18-5"
          style="stroke-width:1.8"
-         x="45.783115"
-         y="123.5409">No</tspan></text>
+         x="339.29254"
+         y="125.23465">No</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="250.0174"
-       y="123.48944"
+       x="135.82523"
+       y="126.36524"
        id="text18-9-4"><tspan
          sodipodi:role="line"
          id="tspan18-5-8"
          style="stroke-width:1.8"
-         x="250.0174"
-         y="123.48944">No</tspan></text>
+         x="135.82523"
+         y="126.36524">No</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="262.5173"
-       y="56.906593"
+       x="116.80229"
+       y="55.311722"
        id="text19"><tspan
          sodipodi:role="line"
          id="tspan19"
          style="stroke-width:1.8"
-         x="262.5173"
-         y="56.906593">Yes</tspan><tspan
+         x="116.80229"
+         y="55.311722">Yes</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:1.8"
-         x="262.5173"
-         y="71.017723"
+         x="116.80229"
+         y="69.422844"
          id="tspan20" /></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="340.78979"
-       y="127.12692"
+       x="40.161522"
+       y="124.82175"
        id="text19-1"><tspan
          sodipodi:role="line"
          id="tspan19-7"
          style="stroke-width:1.8"
-         x="340.78979"
-         y="127.12692">Yes</tspan><tspan
+         x="40.161522"
+         y="124.82175">Yes</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:1.8"
-         x="340.78979"
-         y="141.23805"
+         x="40.161522"
+         y="138.93288"
          id="tspan20-2" /></text>
     <text
        xml:space="preserve"
        style="font-size:11.2889px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.8;stroke-linejoin:round;stroke-miterlimit:3.5;stroke-dasharray:none;paint-order:markers fill stroke"
-       x="140.88164"
-       y="125.88423"
+       x="243.30963"
+       y="125.99564"
        id="text19-2"><tspan
          sodipodi:role="line"
          id="tspan19-2"
          style="stroke-width:1.8"
-         x="140.88164"
-         y="125.88423">Yes</tspan><tspan
+         x="243.30963"
+         y="125.99564">Yes</tspan><tspan
          sodipodi:role="line"
          style="stroke-width:1.8"
-         x="140.88164"
-         y="139.99536"
+         x="243.30963"
+         y="140.10677"
          id="tspan20-6" /></text>
     <g
-       transform="matrix(2.3347559,0,0,1.8698322,230.38088,148.14388)"
+       transform="matrix(2.3347559,0,0,1.8698322,147.59037,147.79868)"
        ns2:version="1.9.0"
        ns2:texconverter="lualatex"
        ns2:pdfconverter="inkscape"
@@ -1602,7 +1602,7 @@
     </g>
     <g
        id="g22"
-       transform="matrix(2.1274325,0,0,1.9254814,-285.62472,-98.760495)">
+       transform="matrix(2.1274325,0,0,1.9254814,35.499058,-97.523563)">
       <g
          style="fill:#000000;fill-opacity:1"
          id="id-b97e3586-11ec-42e7-80af-c08b6cb41cbb">
@@ -1630,7 +1630,7 @@
     </g>
     <g
        id="g21"
-       transform="matrix(2.1845484,0,0,1.8754656,25.842181,-114.88251)">
+       transform="matrix(2.1845484,0,0,1.8754656,-300.3479,-114.8544)">
       <g
          style="fill:#000000;fill-opacity:1"
          id="id-8d6792d9-798b-4e60-bdcd-8b8585206bb1">
@@ -1658,7 +1658,7 @@
     </g>
     <g
        id="g20"
-       transform="matrix(2.1254599,0,0,1.9703076,-166.1122,-152.10422)">
+       transform="matrix(2.1254599,0,0,1.9703076,-84.953802,-150.85706)">
       <g
          style="fill:#000000;fill-opacity:1"
          id="id-842f2d3e-a4f2-4b72-811f-8a37b255c9ca">
