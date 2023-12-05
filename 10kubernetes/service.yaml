@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: credit
+spec:
+  type: LoadBalancer
+  selector:
+    app: credit
+  ports:
+  - port: 80
+    targetPort: 9696
