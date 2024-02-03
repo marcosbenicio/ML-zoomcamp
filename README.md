@@ -30,8 +30,8 @@ Study about the fundamentals and applications of Convolutional Neural Networks (
 ## [Chapter 8: Serverless Deep Learning](https://github.com/marcosbenicio/ML-zoomcamp/tree/main/08-serverless)
 Deploying deep learning models in a serverless environment, showing the benefits of scalability, cost-efficiency, and ease of deployment.
 
-## [Chapter 9: Kubernetes and Kuberflow](https://github.com/marcosbenicio/ML-zoomcamp/tree/main/09-kubernetes)
-Study about Kubernetes, an open-source system for automating deployment, scaling, and management of containerized applications, and Kubeflow, a Kubernetes-native platform for deploying, monitoring, and managing machine learning projects. 
+## [Chapter 9: Kubernetes](https://github.com/marcosbenicio/ML-zoomcamp/tree/main/09-kubernetes)
+Study about Kubernetes, an open-source system for automating deployment, scaling, and management of containerized applications. 
 
 ## [Chapter 10: Final Project](https://github.com/marcosbenicio/taxi-trip-regression/tree/main)
 In this project, was build a machine learning model to predict the trip duration of taxi rides in New York City. The dataset is from Kaggle. The original dataset have approximately 1.4 million entries for the training set and 630k for the test set, although only the training set is used in this project.
